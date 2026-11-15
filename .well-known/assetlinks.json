@@ -4,7 +4,7 @@
     "target": {
       "namespace": "android_app",
       "package_name": "de.bananiboii.studienplaner",
-      "sha256_cert_fingerprints": ["PLATZHALTER_WIRD_IN_SCHRITT_3_ERSETZT"]
+      "sha256_cert_fingerprints": ["B0:A9:1D:42:CE:40:E9:76:48:F7:4B:EC:85:89:3A:13:8D:9A:71:7F:F3:3A:BD:A9:6D:0C:46:DA:B1:D8:B6:44"]
     }
   }
 ]
